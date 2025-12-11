@@ -23,7 +23,7 @@ html, body {
     gap: 30px;
 }
 
-.eye {
+.smile__eye {
     width: 30px;
     height: 30px;
     background-color: black;
@@ -31,7 +31,7 @@ html, body {
     animation: blink 2s infinite ease-in-out;
 }
 
-.left {
+.smile__eye--left {
     animation-delay: 0.4s;
 }
 
